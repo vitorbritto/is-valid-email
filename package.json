@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ambitiouswebkit/is-valid-email"
+    "url": "https://github.com/vitorbritto/is-valid-email"
   },
   "keywords": [
     "isvalidemail"
@@ -19,9 +19,9 @@
   "author": "Vitor Britto <code@vitorbritto.com.br> (http://vitorbritto.com.br/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ambitiouswebkit/is-valid-email/issues"
+    "url": "https://github.com/vitorbritto/is-valid-email/issues"
   },
-  "homepage": "https://github.com/ambitiouswebkit/is-valid-email",
+  "homepage": "https://github.com/vitorbritto/is-valid-email",
   "devDependencies": {
     "chai": "*",
     "mocha": "*"
