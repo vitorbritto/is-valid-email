@@ -6,9 +6,6 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/vitorbritto/is-valid-email"
@@ -21,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/vitorbritto/is-valid-email/issues"
   },
-  "homepage": "https://github.com/vitorbritto/is-valid-email",
-  "devDependencies": {
-    "chai": "*",
-    "mocha": "*"
-  }
+  "homepage": "https://github.com/vitorbritto/is-valid-email"
 }
