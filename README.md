@@ -6,7 +6,7 @@ Validation for e-mail input.
 ## Usage
 
 ```javascript
-var emailInput = getElementById(#contact-email);
+var emailInput = getElementById('contact-email');
 isValid.email(emailInput);
 ```
 
